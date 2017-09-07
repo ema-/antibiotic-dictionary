@@ -1,6 +1,6 @@
 # antibiotic-dictionary
 
-A dictionary of infection treating antibiotics, including brand names, abbreviations, misspellings, as well as NegEx-like antibiotics negation/speculation rules. The dictionary was created using word2vec and 2 millions nursing notes.
+A dictionary of infection treating antibiotics, including brand names, abbreviations, misspellings, as well as NegEx-like antibiotics negation/speculation rules. The dictionary was created using word2vec and 2 millions nursing notes. Details can be found at [http://www.aclweb.org/anthology/W17-2332](http://www.aclweb.org/anthology/W17-2332)
 
 ```
 @article{apostolova2017toward,
